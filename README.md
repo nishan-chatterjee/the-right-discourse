@@ -7,7 +7,7 @@ This repository accompanies the paper titled "The 'Right' Discourse on Migration
 
 ### Interactive Plots:
 
-Explore interactive plots in the [docs](docs/) directory. The plots can be accessed through [Github Pages](#) (link will be provided soon).
+Explore interactive plots in the [docs](docs/) directory. The plots can be accessed through [Github Pages](https://nishan-chatterjee.github.io/the-right-discourse/).
 
 ### Notebooks:
 
