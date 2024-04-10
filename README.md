@@ -1,4 +1,3 @@
-
 # Repository: the-right-discourse
 
 This repository accompanies the paper titled "The 'Right' Discourse on Migration: Analyzing Migration-Related Tweets in Right and Far-Right Political Movements," which has been accepted for JADT 2024: the 17th International Conference on the Statistical Analysis of Textual Data.
@@ -7,7 +6,7 @@ This repository accompanies the paper titled "The 'Right' Discourse on Migration
 
 ### Interactive Plots:
 
-Explore interactive plots in the [docs](docs/) directory. The plots can be accessed through [Github Pages](https://nishan-chatterjee.github.io/the-right-discourse/).
+[**Discover the interactive plots here**](https://nishan-chatterjee.github.io/the-right-discourse/), which showcase our project's data visualizations. These plots are a part of the [docs](docs/) directory and offer a hands-on experience with our findings.
 
 ### Notebooks:
 
