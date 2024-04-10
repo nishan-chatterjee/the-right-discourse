@@ -1,3 +1,10 @@
+<style>
+    body {
+        background-color: #202124;
+        color: white;
+    }
+</style>
+
 # Topic Modeling
 Topic modelling enables the extraction of underlying topic clusters, a task that would be manually impractical and time-consuming. Using the BERTopic framework, the multilingual-e5-large Sentence Transformer model, we find document (in our case, tweet) clusters. We finally use LLAMA2 with a custom prompt and 3 representative docs from each topic to create the topic labels. We restrict the clustering to be limited to 40 topics for each sub-corpus for manual analysis.
 
