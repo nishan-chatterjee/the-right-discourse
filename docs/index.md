@@ -19,12 +19,12 @@ BERTopic also provides methods to visualize the evolution of topics and their re
 
 ### French
 <div style="width: 100%; max-width: 1300px;">
-    <iframe src="https://nishan-chatterjee.github.io/the-right-discourse/topic-evolution-french.html" width="1300" height="1050" style="zoom: 50%;"></iframe>
+    <iframe src="https://nishan-chatterjee.github.io/the-right-discourse/topic-evolution-french.html" width="1300" height="1020" style="zoom: 25%;"></iframe>
 </div>
 
 ### UK
 <div style="width: 100%; max-width: 1300px;">
-    <iframe src="https://nishan-chatterjee.github.io/the-right-discourse/topic-evolution-uk.html" width="1300" height="1050" style="zoom: 50%;"></iframe>
+    <iframe src="https://nishan-chatterjee.github.io/the-right-discourse/topic-evolution-uk.html" width="1300" height="1020" style="zoom: 25%;"></iframe>
 </div>
 
 # Persuasion Comparison
