@@ -19,7 +19,9 @@ BERTopic also provides methods to visualize the evolution of topics and their re
 
 ### French
 <div style="width: 100%; max-width: 1300px;">
-    <iframe src="https://nishan-chatterjee.github.io/the-right-discourse/topic-evolution-french.html" width="1300" height="1020" style="zoom: 25%;"></iframe>
+    <div style="position: relative; padding-bottom: 80%; height: 0;">
+        <iframe src="https://nishan-chatterjee.github.io/the-right-discourse/topic-evolution-french.html" style="position: absolute; width: 100%; height: 100%; border: none;"></iframe>
+    </div>
 </div>
 
 ### UK
