@@ -4,4 +4,4 @@
 
 # Persuasion Comparison
 
-<iframe src="https://github.com/nishan-chatterjee/the-right-discourse/blob/main/docs/persuasion-comparison-with-examples.html" width="800" height="600"></iframe>
+<iframe src="https://nishan-chatterjee.github.io/the-right-discourse/persuasion-comparison-with-examples.html" width="800" height="600"></iframe>
