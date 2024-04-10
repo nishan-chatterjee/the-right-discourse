@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 <style>
     body {
         background-color: #202124;
