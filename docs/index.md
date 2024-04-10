@@ -1,6 +1,3 @@
-title: [The 'Right' Discourse on Migration: Analysing Migration-Related Tweets in Right and Far-Right Political Movements]
-description: [The rise of right-wing populism in Europe has brought to the forefront the significance of analysing social media discourse to understand the dissemination of extremist ideologies and their impact on political outcomes. Twitter, as a platform for interaction and mobilisation, provides a unique window into the everyday communication of far-right supporters. In this paper, we propose a methodology that uses state-of-the-art natural language processing techniques with sociological insights to analyse the MIGR-TWIT corpus of far-right tweets in English and French. We aim to uncover patterns of discourse surrounding migration, hate speech, and persuasion techniques employed by right and far-right actors. By integrating linguistic, sociological, and computational approaches, we seek to offer cross-disciplinary insights into societal dynamics and contribute to a better understanding of contemporary challenges posed by right-wing extremism on social media platforms.]
-
 <style>
     body {
         background-color: #202124;
